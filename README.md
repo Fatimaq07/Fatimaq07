@@ -65,15 +65,6 @@
 
 ---
 
-<h3 align="center">🌐 Interactive 3D Animation 🌐</h3>
-<p align="center">
-  <a href="https://your-3d-animation-link.com" target="_blank">
-    <img src="https://via.placeholder.com/800x400.png?text=Click+to+View+3D+Animation" alt="3D Animation Placeholder" />
-  </a>
-</p>
-
----
-
 <h3 align="center">📈 Streak Stats 📈</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimaq07" alt="GitHub Streak" />
