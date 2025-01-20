@@ -64,8 +64,3 @@
 </p>
 
 ---
-
-<h3 align="center">📈 Streak Stats 📈</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimaq07" alt="GitHub Streak" />
-</p>
