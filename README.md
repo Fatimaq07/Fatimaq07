@@ -3,8 +3,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=0078FF&size=25&center=true&vCenter=true&lines=Full-Stack+Developer;AI+%7C+DS+Enthusiast;Building+Scalable+Projects;Always+Learning+%F0%9F%93%9A" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=0078FF&size=25&center=true&vCenter=true&lines=Hey,+I'm+Fatima+Qureshi;Frontend+Developer;AI-Powered+Solutions;Building+Scalable+Projects;Always+Learning+%F0%9F%93%9A" alt="Typing Animation">
 </p>
+
 
 ---
 
