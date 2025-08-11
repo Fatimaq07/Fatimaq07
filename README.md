@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi 👋, I'm FATIMA QURESHI ✨</h1>
-<h3 align="center">B.Tech in AI & Data Science | Frontend & Backend Developer | Problem Solver</h3>
+<h3 align="center">B.Tech in AI & Data Science |  MERN Developer | Problem Solver</h3>
 
 <!-- Typing animation -->
 <p align="center">
